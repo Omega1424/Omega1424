@@ -1,3 +1,6 @@
+
+
+
 # 💫 About Me:
 🔭 Currently interning as an R&D Machine Learning engineer<br>👯 Graduating from SUTD in 2026 May with a B. Eng in Computer Science & Design and a minor in AI<br>🤝 I’m looking for a summer internship as an AI engineer<br>🌱 I’m currently learning Catboost for time series modelling in long-term forecasting<br>💬 Ask me about working out or dieting :)<br>⚡ Fun fact: I started learning HTML when I was 14!
 ###
@@ -48,6 +51,11 @@
 </div>
 
 ###
+<div align="center">
+  <a href="https://open.spotify.com/user/isac1mat">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=isac1mat&count=6" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omega1424&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -58,4 +66,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Omega1424&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
