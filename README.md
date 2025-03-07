@@ -44,9 +44,11 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/9mfmxf.gif"  />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/d098617c-5b1a-4402-909f-c31b5273a849" height="200" />
+  <img src="https://i.imgflip.com/9mfmxf.gif" height="200" />
 </div>
+
 
 ###
 <div align="center">
