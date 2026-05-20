@@ -1,6 +1,6 @@
 ![AustinIsaac_personalbanner](https://github.com/user-attachments/assets/ffe380f7-f228-4ca9-a57a-07e226b54274)
 
-🔭 Currently interning as an R&D Machine Learning engineer<br>👯 Graduating from SUTD in 2026 May with a B. Eng in Computer Science & Design and a minor in AI<br>🤝 I’m looking for a summer internship as an AI engineer<br>🌱 I’m currently learning Catboost for time series modelling in long-term forecasting<br>💬 Ask me about working out or dieting :)<br>⚡ Fun fact: I started learning HTML when I was 14!
+🔭 Currently looking for my first full-time role<br>👯 Just Graduated with Honours with Distinction from SUTD in 2026 May with a B. Eng in Computer Science & Design and a minor in AI and specialization in Data Analytics<br>🤝 I’m looking for a fresh grad role as an AI engineer or Data Analyst<br>🌱 I’m currently learning about Agents!<br>💬 Ask me about working out or dieting :)<br>⚡ Fun fact: I started learning HTML when I was 14!
 ###
 
 <div align="center">
